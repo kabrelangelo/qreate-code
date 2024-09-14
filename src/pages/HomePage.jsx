@@ -5,7 +5,6 @@ import QrCode from '../components/QrCode'
 export default function HomePage() {
   return (
     <div>
-        <HeroSection/>
         <QrCode/>
     </div>
   )
